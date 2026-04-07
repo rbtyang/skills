@@ -1,0 +1,4 @@
+interface:
+  display_name: "6A工作流"
+  short_description: "按6A方法执行分析、规划、状态外化与经验沉淀"
+  default_prompt: "使用 $6a 在 .docs 中的6A工作流中运行此任务。"
