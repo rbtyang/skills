@@ -1,4 +1,4 @@
 interface:
   display_name: "6A工作流"
-  short_description: "按6A方法执行分析、规划、状态外化与经验沉淀"
-  default_prompt: "使用 $6a 在 .docs 中的6A工作流中运行此任务。"
+  short_description: "使用6A方法论来分析需求拆解任务并执行（需求对齐->架构阶段->原子化阶段->审批阶段->自动化执行->评估阶段）"
+  default_prompt: "使用 $6a 运行6A工作流，来分析需求拆解任务并执行。"

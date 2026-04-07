@@ -1,0 +1,4 @@
+interface:
+  display_name: "测试技能 (Test-Skill)"
+  short_description: "用来测试AI应用或Agent的SKILL功能及目录是否正常安装和使用"
+  default_prompt: "使用 $test-skill 来运行SKILL功能测试流程。"

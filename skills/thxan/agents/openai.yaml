@@ -1,4 +1,4 @@
 interface:
   display_name: "Thxan共享大脑"
   short_description: "按 Thxan 方法执行分析、规划、状态外化与经验沉淀"
-  default_prompt: "使用 $thxan 在 .docs 中的共享大脑工作流中运行此任务。"
+  default_prompt: "使用 $thxan 运行 Thxan共享大脑工作流，来分析需求拆解任务并执行。"
